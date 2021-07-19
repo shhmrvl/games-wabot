@@ -1,5 +1,5 @@
 global.DeveloperMode = 'true' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = [https://chat.whatsapp.com/Gv0cdO3StNH32JkTUbxs8L'']
 global.owner = ['60174336114']// Put your number here
 global.mods = [] // Want some help?
 global.prefix = ['baka '] // Prefix
